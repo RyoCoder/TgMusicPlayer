@@ -4,8 +4,9 @@
 <p align="center">
 
 ```
-A simple telegram Music Player made with python credits for pytgcalls
+A simple telegram Music Player made with python credits for 
 ```
+    
 
 ### Mandatory Vars 
 ```
